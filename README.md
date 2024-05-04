@@ -1,4 +1,4 @@
 # Vulnerable
-this a vulnerable api which is now at its first stage it will be renewed every 3-Days
+This a vulnerable api which can be used to test some bug bounty testes to learn 
 
 @vulnerable to url hacking
